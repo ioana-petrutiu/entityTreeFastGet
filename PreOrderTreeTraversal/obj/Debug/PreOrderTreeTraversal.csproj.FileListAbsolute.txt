@@ -1,0 +1,10 @@
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\bin\Debug\PreOrderTreeTraversal.exe.config
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\bin\Debug\PreOrderTreeTraversal.exe
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\bin\Debug\PreOrderTreeTraversal.pdb
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\bin\Debug\EntityFramework.dll
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\bin\Debug\EntityFramework.xml
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\obj\Debug\PreOrderTreeTraversal.csprojResolveAssemblyReference.cache
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\obj\Debug\PreOrderTreeTraversal.exe
+c:\users\mihai.petrutiu\documents\visual studio 2013\Projects\PreOrderTreeTraversal\PreOrderTreeTraversal\obj\Debug\PreOrderTreeTraversal.pdb
